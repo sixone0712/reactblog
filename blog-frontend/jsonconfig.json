@@ -1,0 +1,6 @@
+{
+  "comment" : "프로젝트에서 자동으로 import 기능이 작동 할 수 있도록 해줌",
+  "compilerOptions":{
+    "target": "es6"
+  }
+}
